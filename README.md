@@ -45,3 +45,13 @@ render -> componentDidUpdate
 ### Unmount
 컴포넌트가 사라질 때 순서 (주로 다른페이지로 이동하거나..)
 componentWillUnmount()
+
+---
+
+## Axios
+
+http 통신 라이브러리이다.
+```
+npm i axios
+```
+
