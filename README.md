@@ -55,3 +55,14 @@ http 통신 라이브러리이다.
 npm i axios
 ```
 
+---
+
+## githun에 페이지 올리기
+
+```
+npm i gh-pages
+```
+웹 사이트를 github의 gibhub page 도메인에 나타나게 해준다.
+
+package.json에 homepage, deploy, predeploy에 대한 설정을 해주고 npm run deploy를 통해 배포한다.
+자세한 내용은 코드참조
