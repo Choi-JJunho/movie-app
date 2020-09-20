@@ -66,3 +66,10 @@ npm i gh-pages
 
 package.json에 homepage, deploy, predeploy에 대한 설정을 해주고 npm run deploy를 통해 배포한다.
 자세한 내용은 코드참조
+
+---
+
+## Router
+```
+npm i react-router-dom
+```
